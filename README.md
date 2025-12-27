@@ -1,3 +1,5 @@
+# Hey there! I'm Haripriya Gupta
+
 # 💫 About Me:
 I’m a B.Tech CSIT student focused on building strong fundamentals in DSA, C++, and core CS, while gradually expanding into web development and AI-based projects through hands-on work.<br>🔭 Currently working on:<br>Data Structures & Algorithms in C++, problem-solving on LeetCode, and small projects that emphasize clean logic and execution.<br>👯 Looking to collaborate on:<br>Web development projects, AI-based applications, and early-stage startup projects where learning by building is valued over hype.<br>🤝 Looking for help with:<br>Writing scalable code, real-world project structuring, and understanding system-level thinking.<br>🌱 Currently learning:<br>DSA, OOP, basic backend concepts, and foundational AI/ML ideas.<br>💬 Ask me about:<br>C++, DSA fundamentals, beginner web dev, or navigating CS as a first-year student.<br>⚡ Fun fact:<br>I’d rather ship something imperfect than talk endlessly about ideas.I care more about skill depth than shortcuts—and I’m okay being slow if it means being solid.
 
