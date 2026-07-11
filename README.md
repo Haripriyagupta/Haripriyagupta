@@ -2,7 +2,7 @@
 
 # Haripriya Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=B.Tech+CSIT+Student;C%2B%2B+%7C+DSA+%7C+Full+Stack+Development;console.log(%22Building+scalable+systems%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=B.Tech+CSIT+Student;C%2B%2B+%7C+DSA+%7C+Full+Stack+Development;console.log(%22Building+scalable+systems%22)%3B" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/haripriya-gupta-16a2b3335/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,7 +10,7 @@
 <a href="mailto:haripriyagupta.hg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Haripriyagupta&style=for-the-badge&color=00FF9C"/>
+<img src="https://komarev.com/ghpvc/?username=Haripriyagupta&style=for-the-badge&color=39D353"/>
 
 </div>
 
@@ -65,12 +65,12 @@ status: shipping code, one commit at a time
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Haripriyagupta&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Haripriyagupta&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haripriyagupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Haripriyagupta&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriyagupta&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriyagupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9" height="165"/>
 </div>
 
 ---
@@ -78,15 +78,7 @@ status: shipping code, one commit at a time
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripriyagupta&theme=github-compact&hide_border=true&color=00FF9C&line=00FF9C&point=ffffff"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Haripriyagupta&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripriyagupta&bg_color=0D1117&hide_border=true&color=39D353&line=39D353&point=c9d1d9"/>
 </div>
 
 ---
