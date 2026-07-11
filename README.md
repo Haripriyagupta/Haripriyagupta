@@ -66,7 +66,7 @@ status: shipping code, one commit at a time
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Haripriyagupta&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriyagupta&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Haripriyagupta&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
 </div>
 
 <div align="center">
