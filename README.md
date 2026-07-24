@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B8B8FF&center=true&vCenter=true&width=550&lines=B.Tech+CSIT+Student;C%2B%2B+%7C+DSA+%7C+Full+Stack+Development;console.log(%22Building+scalable+systems%22)%3B" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/haripriya-gupta-16a2b3335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/haripriya-gupta-16a2b3335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <a href="mailto:haripriyagupta.hg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Haripriyagupta&style=for-the-badge&color=B8B8FF"/>
 
