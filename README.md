@@ -1,153 +1,136 @@
-<img src="assets/Studying_Girl_Desk_Aesthetic.png" width="100%" alt="header banner" />
+<div align="center">
 
-<h1 align="left">> Hi, I'm Haripriya Gupta 🌸</h1>
+<img src="assets/headerfile.png" width="100%" alt="header banner"/>
 
-<p align="left">
-  <b>C++ | DSA | Full Stack Development | Cloud & AI</b><br/>
-  BTech CSIT '28 &nbsp;|&nbsp; Sophomore &nbsp;|&nbsp; AITR
+</div>
+
+<h1 align="center">Hi, I'm a Learner</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A55EEA&center=true&vCenter=true&width=560&lines=B.Tech+CSIT+Student;Full+Stack+Developer;DSA+%2B+Problem+Solver;Learning+System+Design+%26+AI%2FML" alt="typing banner"/>
 </p>
 
-<p align="left"><i>"Better Code, Bigger Dreams" ♡</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-A55EEA?style=for-the-badge"/>
+</p>
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=haripriyagupta&style=for-the-badge&color=blueviolet" alt="profile views" />
+<p align="center">
+<a href="https://github.com/Haripriyagupta"><img src="https://img.shields.io/badge/GitHub-Haripriyagupta-6C5CE7?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Haripriyagupta&style=flat-square&color=8e44ad&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 🎓 About Me
+### whoami
+<img align="right" width="150" src="assets/spiritedaway.png"/>
 
-- 🎓 Second year BTech CSIT student at AITR
-- ☁️ Cloud Engineer at GDG AITR / GDG On Campus AITR
-- 💻 Passionate about building useful things with tech
-- 🎨 Love designing posters, editing videos & writing content
-- 💜 Always up for good conversations, anime, and new experiences ♡
 
-> *Still figuring it out, but loving the journey* 🙂
+```
+
+  name                  : Haripriya Gupta
+  focus                 : [ Data Structure and Algorithms, Full Stack Development ]
+  languages             : [C++, Python, Javascript]
+  Currently learning    : System Design, Backend Development, AI/ML
+  status                :  shipping code, one commit at a time
+```
+
+
 
 ---
 
-## 🧑‍💻 Tech Stack
-
+### `</>` Tech Stack
+<img align="right" width="330" src="assets/Hill_Flowers_Sunset.png"/>
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js&theme=dark" />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Web & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark" />
 
 **Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Cloud & AI/ML**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-7B2FF7?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-<img src="assets/City_Sunset_Train_Scene.png" width="45%" align="right" alt="currently learning" />
-
-- [x] DSA & LeetCode (C++)
-- [x] Java 17 (Temurin)
-- [x] Angular & Spring Boot
-- [x] .NET (C#)
-- [x] App Development
+**Tools & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel&theme=dark" />
 
 <br clear="right"/>
 
 ---
 
-## 🗂️ Featured Projects
+### 💡 Currently Learning
 
-<img src="assets/Nezuko_Chibi.png" width="18%" align="right" alt="featured projects" />
+<img align="right" width="100" src="assets/Kakashi_Chibi_Reading_Transparent.png"/>
 
-- 📍 **MySaarthi** – Career Guidance Platform (SIH)
-- 📅 Event Management System
-- 👥 GDG Event Registration Form
-- `</>` Codespire 3.0 – Hackathon (GDGOC AITR)
-- 🌿 NSSAFE-2025 – Research Paper (IIT Ropar CPS Lab)
-- 🏆 BESTI Digital Poster – 1st Runner Up
-
-*More projects on GitHub →*
+- DSA
+- System Design
+- Backend Development
+- AI / ML
 
 <br clear="right"/>
 
 ---
 
-## 🏅 Achievements
+### 📊 GitHub Stats
 
-<img src="assets/Goku_Chibi.png" width="18%" align="right" alt="achievements" />
+<img align="right" width="100" src="assets/Nezuko_Chibi_Transparent.png"/>
 
-- 🎯 NPTEL – The Joy of Computing using Python (90%) — **Gold + Elite**
-- ✉️ IIT Ropar Summer Internship (2 Emails)
-- 💼 Infosys InStep Wintership – Applied
-- 📌 Flipkart GRID – Cleared 1st Round
-- ✨ Walmart SWE Sophomore Intern – Applied
-
-> *Grateful for every opportunity ♡*
+<img src="https://github-readme-stats.vercel.app/api?username=Haripriyagupta&show_icons=true&theme=tokyonight&hide_border=true&title_color=A55EEA&icon_color=A55EEA" width="100%"/>
 
 <br clear="right"/>
 
 ---
 
-## ⭐ Interests & Hobbies
+### 🎯 Goals
+<img align="right" width="110" src="assets/Goku_Chibi_Transparent.png"/>
 
-<img src="assets/Naruto_Chibi_Eating_Ramen.png" width="16%" align="right" alt="hobbies 1" />
-<img src="assets/Kakashi_Chibi_Reading.png" width="16%" align="right" alt="hobbies 2" />
-
-- 🎬 **Anime** (AOT | Your Lie in April | 5 cm per Second)
-- 🗣️ French (from scratch)
-- 🎮 Mystery / Detective / Logic Games
-- 🎤 Debate (AI & Jobs / AI vs Human Thinking)
-- 🌸 Skincare & Self Care
-- ✈️ Travel & Explore
-
-> *Good food + good vibes = happiness ♡*
+- To live
+- To focus
+- To Enjoy
+- To have self and skill development
+- To Do some meaningful contributions and build for a impactful change.
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Goals
+### 🔥 Streak Stats
 
-<img src="assets/Spirited_Away_NoFace.png" width="16%" align="right" alt="goals" />
-
-- [x] Financial independence
-- [x] Make my parents proud
-- [x] Work on professional projects
-- [x] Build meaningful products
-- [x] Explore tech & create impact
-- [x] Women's privacy & security (AI ideas)
-
-> *Same girl... bigger dreams ♡*
-
-<br clear="right"/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriyagupta&theme=tokyonight&hide_border=true&background=0D1117&ring=A55EEA&fire=A55EEA" width="100%"/>
+</div>
 
 ---
 
-<img src="assets/Mount_Fuji_Scenery.png" width="100%" alt="footer banner" />
+### 📈 Contribution Graph
 
-<p align="center">🌸 Let's build something great together 🌸</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripriyagupta&theme=dracula&hide_border=true&bg_color=0D1117&color=A55EEA&line=A55EEA&point=FFFFFF" width="100%"/>
+</div>
+
+---
+
+### 🗓️ Contribution Heatmap
+
+<div align="center">
+<img src="https://ghchart.rshah.org/8e44ad/Haripriyagupta" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/Train_Sunset.png" width="100%"/>
+
+**Let's build something great together** 🌸
+
+</div>
+
+<!--
+console.log("Thanks for stopping by — let's build something together.");
+-->
