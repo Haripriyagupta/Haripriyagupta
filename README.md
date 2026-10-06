@@ -3,12 +3,14 @@
 <img src="assets/headerfile.jpeg" width="100%" alt="header banner"/>
 
 </div>
-
-<h1 align="center">Hi, I'm a Learner</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A55EEA&center=true&vCenter=true&width=560&lines=B.Tech+CSIT+Student;Full+Stack+Developer;DSA+%2B+Problem+Solver;Learning+System+Design+%26+AI%2FML" alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3500&pause=1200&color=A55EEA&center=true&vCenter=true&width=780&lines=Just+a+learner%2C+figuring+out+code+along+the+way;Without+losing+the+creative+side+of+me." alt="typing banner"/>
 </p>
+
+<!-- <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A55EEA&center=true&vCenter=true&width=560&lines=B.Tech+CSIT+Student;Full+Stack+Developer;DSA+%2B+Problem+Solver;Learning+System+Design+%26+AI%2FML" alt="typing banner"/>
+</p> -->
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/DSA-6C5CE7?style=for-the-badge"/>
